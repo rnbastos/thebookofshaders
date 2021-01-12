@@ -107,17 +107,17 @@ Am Ende der letzten Übung haben wir einige neue Funktionen eingeführt. Jetzt i
 
 [Golan Levin](http://www.flong.com/) hat eine großartige Dokumentation über komplexe formgebende Funktionen verfasst, die für unsere Zwecke extrem hilfreich ist. Indem Du einen Teil dieser Funktionen nach GLSL portierst, schaffst Du Dir eine wertvolle Sammlung an Codeschnipseln.
 
-* [Polynomische formgebende Funktionen: www.flong.com/texts/code/shapers_poly](http://www.flong.com/texts/code/shapers_poly/)
+* [Polynomische formgebende Funktionen: www.flong.com/archive/texts/code/shapers_poly](http://www.flong.com/archive/texts/code/shapers_poly/)
 
-* [Exponentielle formgebende Funktionen: www.flong.com/texts/code/shapers_exp](http://www.flong.com/texts/code/shapers_exp/)
+* [Exponentielle formgebende Funktionen: www.flong.com/archive/texts/code/shapers_exp](http://www.flong.com/archive/texts/code/shapers_exp/)
 
-* [Kreisförmige & elliptische formgebende Funktionen: www.flong.com/texts/code/shapers_circ](http://www.flong.com/texts/code/shapers_circ/)
+* [Kreisförmige & elliptische formgebende Funktionen: www.flong.com/archive/texts/code/shapers_circ](http://www.flong.com/archive/texts/code/shapers_circ/)
 
-* [Bezier und andere parametrische formgebende Funktionen: www.flong.com/texts/code/shapers_bez](http://www.flong.com/texts/code/shapers_bez/)
+* [Bezier und andere parametrische formgebende Funktionen: www.flong.com/archive/texts/code/shapers_bez](http://www.flong.com/archive/texts/code/shapers_bez/)
 
 <div class="glslGallery" data="160414041542,160414041933,160414041756" data-properties="clickRun:editor,hoverPreview:false"></div>
 
-Genau wie Küchenchefs Gewürze und exotische Zutaten sammeln, entwickeln Digitalkünstler und kreative Entwickler häufig eine Liebe für bestimmte formgebenden Funktionen.
+Genau wie Küchenchefs Gewürze und exotische Zutaten sammeln, entwickeln Digitalkünstler und kreative Entwickler häufig eine Liebe für bestimmte formgebende Funktionen.
 
 [Inigo Quiles](http://www.iquilezles.org/) stellt eine großartige Auswahl an [nützlichen Funktionen](http://www.iquilezles.org/www/articles/functions/functions.htm) vor. Wenn Du [diesen Artikel](http://www.iquilezles.org/www/articles/functions/functions.htm) gelesen hast, dann werfe einen Blick auf die folgenden Übertragungen dieser Funktionen nach GLSL. Beobachte aufmerksam die kleinen, aber erforderlichen Anpassungen wie etwa den Punkt (".") bei Fließkommazahlen und die Umsetzung der Funktionsnamen von C auf GLSL; so heißt es in GLSL beispielsweise ```pow()``` statt ```powf()``` wie in C:   
 
